@@ -56,4 +56,4 @@ A full-stack web application designed for organizing and participating in gaming
    npm run dev
    ```
 
-The backend server should run on `http://localhost:5000` and the frontend app usually on `http://localhost:5173`.
+The backend server should run on `http://localhost:5000` and the frontend app usually on `http://localhost:5173`  .
