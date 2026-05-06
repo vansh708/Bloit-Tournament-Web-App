@@ -5,7 +5,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Tournaments from './pages/Tournaments';
 import Dashboard from './pages/Dashboard';
-import TournamentChat from './pages/TournamentChat';
+import TournamentChat from './pages/TournamentChat'   ;
 
 function App() {
   return (
