@@ -22,8 +22,7 @@ const Login = () => {
     } catch (err) {
       setError(err.response?.data?.message || 'Login failed');
     }
-    setLoading(false);
-  };
+    setLoading(false)   ;  };
 
   return (
     <div className="flex items-center justify-center min-h-[calc(100vh-64px)] px-4">
