@@ -17,7 +17,7 @@ const io = new Server(server, {
   }
 });
 
-// Middleware
+// use this MiddleWare
 app.use(cors());
 app.use(express.json());
 
