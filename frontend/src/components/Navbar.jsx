@@ -1,6 +1,6 @@
 import { Navbar as NextUINavbar, NavbarBrand, NavbarContent, NavbarItem, Link, Button } from "@nextui-org/react";
 import { Link as RouterLink, useNavigate } from 'react-router-dom';
-import { Gamepad2 } from 'lucide-react';
+import { Gamepad2 } from 'lucide-react'  ;
 
 const Navbar = () => {
   const navigate = useNavigate();
